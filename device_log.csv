@@ -1,0 +1,5 @@
+Device,Time,Voltage
+DeviceA,10:00,5.2
+DeviceA,10:05,
+DeviceB,10:00,5.3
+DeviceB,10:05,100
